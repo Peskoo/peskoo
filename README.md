@@ -1,4 +1,3 @@
-### Hi there 👋  
 ![Hello Gif](https://media.tenor.com/4HHS5-SdZYIAAAAC/hi-doggy.gif)
 
 - 🔭 I’m currently working at 3DS Outscale as backend developer.
